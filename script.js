@@ -6,7 +6,7 @@ class Person {
 		
 	}
 	get name(){
-		return this.name;rdx
+		return this.name;
 	}
 	get age(){
 		return this.name;
